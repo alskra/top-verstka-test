@@ -1,5 +1,9 @@
 body {
-  color: #FFFFFF;
-  background: red;
+  --foo: 45;
+
+  $foo: 45;
+
   display: block;
+  color: #fff;
+  background: red;
 }
