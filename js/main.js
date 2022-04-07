@@ -1,3 +1,3 @@
-const foo = (bar) => console.log(bar);
+const foo = (bar) => console.log(45);
 
 foo();
