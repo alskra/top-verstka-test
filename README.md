@@ -3,6 +3,7 @@
 ### Справка
 
 * [Getting started](https://github.com/stylelint/stylelint/blob/HEAD/docs/user-guide/get-started.md)
+* [Сравнение конфигов `order`](https://www.npmtrends.com/stylelint-config-idiomatic-order-vs-stylelint-config-property-sort-order-smacss-vs-stylelint-config-recess-order-vs-stylelint-config-rational-order)
 
 ### Установка
 
@@ -18,6 +19,11 @@
 `npm run stylelint`
 
 ## ESLint
+
+### Справка
+
+* [Configuring ESLint](https://eslint.org/docs/user-guide/configuring/)
+* [When should I use @babel/eslint-parser?](https://www.npmjs.com/package/@babel/eslint-parser)
 
 ### Установка
 
