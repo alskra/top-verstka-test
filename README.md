@@ -33,9 +33,7 @@
 
 ### Запуск
 
-`npm run stylelint`
-
-
+`npm run eslint`
 
 ## Полезные ссылки
 
