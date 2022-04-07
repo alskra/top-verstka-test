@@ -25,7 +25,21 @@
 * [Configuring ESLint](https://eslint.org/docs/user-guide/configuring/)
 * [When should I use @babel/eslint-parser?](https://www.npmjs.com/package/@babel/eslint-parser)
 
-### Установка
+### Установка с параметрами конфигурации
+
+Устанавливаем ESLint:
+
+`npm install --save-dev eslint`
+
+Настраиваем файл конфигурации:
+
+`npm init @eslint/config`
+
+Запуск:
+
+`./node_modules/.bin/eslint yourfile.js`
+
+### Установка с текущей конфигурацией
 
 `npm install --save-dev eslint eslint-config-airbnb-base eslint-plugin-import @babel/core @babel/eslint-parser`
 
