@@ -66,3 +66,6 @@
 ## Полезные ссылки
 
 * [Шаблоны Glob](https://github.com/isaacs/node-glob#glob-primer)
+* [Using Dart Sass](https://github.com/sass/dart-sass)
+* [Sass Options](https://sass-lang.com/documentation/js-api/interfaces/Options)
+* [Resolve URL Loader](https://github.com/bholloway/resolve-url-loader/blob/v5/packages/resolve-url-loader/README.md)

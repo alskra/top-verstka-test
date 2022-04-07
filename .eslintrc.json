@@ -8,7 +8,6 @@
     "airbnb-base"
   ],
   "globals": {
-    "_": "readonly"
   },
   "parser": "@babel/eslint-parser",
   "parserOptions": {

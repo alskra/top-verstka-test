@@ -1,0 +1,12 @@
+@import "foo.css";
+
+$body-color: red;
+
+body {
+  color: $body-color;
+}
+
+h1 {
+  display: flex;
+  font-size: 30px;
+}
