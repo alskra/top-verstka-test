@@ -12,7 +12,8 @@ trim_trailing_whitespace = true
 
 # [*.blade.php]
 
-# [*.css]
+[*.css]
+indent_size = 2
 
 [*.feature]
 indent_size = 2
@@ -45,7 +46,8 @@ tab_width = 2
 indent_size = 2
 tab_width = 2
 
-# [{*.cjs,*.js}]
+[{*.cjs,*.js}]
+indent_size = 2
 
 [{*.cjsx,*.coffee}]
 indent_size = 2
