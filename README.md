@@ -4,6 +4,14 @@
 * [ESLint](#ESLint)
 * [Полезные ссылки](#Полезные-ссылки)
 
+## Webpack
+
+### Mode
+> WARNING in configuration<br>
+The 'mode' option has not been set, webpack will fallback to 'production' for this value.<br>
+Set 'mode' option to 'development' or 'production' to enable defaults for each environment.<br>
+You can also set it to 'none' to disable any default behavior. Learn more: https://webpack.js.org/configuration/mode/
+
 ## Stylelint
 
 ### Справка
