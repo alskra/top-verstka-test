@@ -6,16 +6,20 @@
 
 ## Webpack
 
-### Mode
+### Run
+
 `npx webpack --config webpack.config.js`
 
 > If a webpack.config.js is present, the webpack command picks it up by default. We use the --config option here only
-> to show that you can pass a configuration of any name. This will be useful for more complex configurations that need to be split into multiple files.
+> to show that you can pass a configuration of any name. This will be useful for more complex configurations that need
+> to be split into multiple files.
 
 > WARNING in configuration<br>
 The 'mode' option has not been set, webpack will fallback to 'production' for this value.<br>
 Set 'mode' option to 'development' or 'production' to enable defaults for each environment.<br>
 You can also set it to 'none' to disable any default behavior. Learn more: https://webpack.js.org/configuration/mode/
+
+### Mode
 
 ## Stylelint
 
