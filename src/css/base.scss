@@ -1,0 +1,21 @@
+@import "foo.css";
+@custom-media --viewport-medium (width <= 50rem);
+@custom-selector :--heading h1, h2, h3, h4, h5, h6;
+
+$body-color: green;
+
+body {
+  color: $body-color;
+  content: $NODE_ENV;
+}
+
+:--heading {
+  display: flex;
+  font-size: 30px;
+}
+
+@media (--viewport-medium) {
+  body {
+    background: red;
+  }
+}
